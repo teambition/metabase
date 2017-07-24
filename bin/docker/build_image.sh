@@ -3,7 +3,7 @@
 BASEDIR=$(dirname $0)
 PROJECT_ROOT="$BASEDIR/../.."
 
-DOCKERHUB_NAMESPACE=metabase
+DOCKERHUB_NAMESPACE=docker-registry.teambition.net/library
 
 
 BUILD_TYPE=$1
